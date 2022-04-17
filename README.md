@@ -1,6 +1,6 @@
 <h1 align="center">Practicando audio y video en HTML</h1>
 
-<iframe src="https://giphy.com/embed/jVeI3SzbxKGKQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vhs-vcr-jVeI3SzbxKGKQ">via GIPHY</a></p>
+
 
 Esta es una pequeña práctica sobre como insertar en HTML audio y video.
 
